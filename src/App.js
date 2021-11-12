@@ -19,7 +19,6 @@ export default function App() {
           </li>
         </ul>
       </section>
-      <p>Start editing to see some magic happen :)</p>
     </div>
   );
 }
